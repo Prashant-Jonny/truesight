@@ -1,0 +1,1 @@
+Currently, the project resides at [googlecode](http://code.google.com/p/truesight-lite/). Migration pending.
